@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "category": "Music",
+    "artist": "Midnight T",
+    "name": "Refresco EP",
+    "sku": "sku_313355",
+    "type": "12\"",
+    "condition": "new",
+    "year": "2018",
+    "image": "https://f4.bcbits.com/img/0018958745_10.jpg",
+    "play_link": "https://soundcloud.com/midnighttenderness/b2-hydra-mastered-051217",
+    "price": 1800,
+    "description": "Still steamin’ from his Turner Street Sound collaboration, Midnight Tenderness serves up a dreamy first solo offering with a fire-cracker of a four-tracker for Sydney’s Ken Oath Records.",
+    "genre": [
+      "electronic",
+      "house",
+      "balaeric"
+    ],
+    "stock": 20,
+    "currency": "AUD"
+  },
+  {
+    "id": "2",
+    "category": "Music",
+    "artist": "Rings Around Saturn",
+    "name": "UNTHANK011",
+    "sku": "sku_313356",
+    "type": "10\"",
+    "condition": "new",
+    "year": "2017",
+    "image": "https://f4.bcbits.com/img/a2870397625_10.jpg",
+    "play_link": "https://soundcloud.com/firecracker-recordings/unthank011-synchrotron-mc-eq1?in=firecracker-recordings/sets/rings-around-saturn-unthank011",
+    "price": 2200,
+    "description": "A voyage into the outer reaches of immersive, ambient techno and electronics where boundaries are blurred between 80s bedroom boogie, Detroit electro, broken beat and Warp golden-era bleep.",
+    "genre": [
+      "electronic",
+      "electro",
+      "esoteric"
+    ],
+    "stock": 25,
+    "currency": "AUD"
+  },
+  {
+    "id": "3",
+    "category": "Merch",
+    "name": "Bucket Hat",
+    "sku": "sku_622147",
+    "type": "accessories",
+    "image": "https://cdn11.bigcommerce.com/s-lqiq2tqil5/images/stencil/2000w/products/232/539/1117_BUCKET_HAT_COFFEE__87548.1589000993.jpg",
+    "price": 2800,
+    "description": "Bucket hat, Reinforced brim with stitching detail, side eyelets Light-Mid weight 100% cotton.",
+    "stock": 5,
+    "currency": "AUD"
+  },
+  {
+    "id": "4",
+    "category": "Merch",
+    "name": "Tote bag",
+    "sku": "sku_125983",
+    "type": "accessories",
+    "image": "https://cdn11.bigcommerce.com/s-lqiq2tqil5/images/stencil/2000w/products/205/4885/1001_CARRIE_TOTE_CAMEL__78038.1615763068.jpg",
+    "price": 4500,
+    "description": "Reinforced shoulder straps, one large main compartment.Mid weight, 320 GSM. 100% cotton canvas.",
+    "stock": 5,
+    "currency": "AUD"
+  },
+  {
+    "id": "5",
+    "category": "Music",
+    "artist": "Midnight T",
+    "name": "Refresco EP 2",
+    "sku": "sku_559961",
+    "type": "12\"",
+    "condition": "new",
+    "year": "2018",
+    "image": "https://f4.bcbits.com/img/0018958745_10.jpg",
+    "play_link": "https://soundcloud.com/midnighttenderness/b2-hydra-mastered-051217",
+    "price": 1800,
+    "description": "Still steamin’ from his Turner Street Sound collaboration, Midnight Tenderness serves up a dreamy first solo offering with a fire-cracker of a four-tracker for Sydney’s Ken Oath Records.",
+    "genre": [
+      "electronic",
+      "house",
+      "balaeric"
+    ],
+    "stock": 20,
+    "currency": "AUD"
+  },
+  {
+    "id": "6",
+    "category": "Music",
+    "artist": "Rings Around Saturn",
+    "name": "UNTHANK012",
+    "sku": "sku_119140",
+    "type": "10\"",
+    "condition": "new",
+    "year": "2017",
+    "image": "https://f4.bcbits.com/img/a2870397625_10.jpg",
+    "play_link": "https://soundcloud.com/firecracker-recordings/unthank011-synchrotron-mc-eq1?in=firecracker-recordings/sets/rings-around-saturn-unthank011",
+    "price": 2200,
+    "description": "A voyage into the outer reaches of immersive, ambient techno and electronics where boundaries are blurred between 80s bedroom boogie, Detroit electro, broken beat and Warp golden-era bleep.",
+    "genre": [
+      "electronic",
+      "electro",
+      "esoteric"
+    ],
+    "stock": 100,
+    "currency": "AUD"
+  },
+  {
+    "id": "7",
+    "category": "Merch",
+    "name": "Bucket Hat 2",
+    "type": "accessories",
+    "image": "https://cdn11.bigcommerce.com/s-lqiq2tqil5/images/stencil/2000w/products/232/539/1117_BUCKET_HAT_COFFEE__87548.1589000993.jpg",
+    "price": 2800,
+    "description": "Bucket hat, Reinforced brim with stitching detail, side eyelets Light-Mid weight 100% cotton.",
+    "stock": 5,
+    "currency": "AUD"
+  },
+  {
+    "id": "8",
+    "category": "Merch",
+    "name": "Tote bag 2",
+    "type": "accessories",
+    "image": "https://cdn11.bigcommerce.com/s-lqiq2tqil5/images/stencil/2000w/products/205/4885/1001_CARRIE_TOTE_CAMEL__78038.1615763068.jpg",
+    "price": 4500,
+    "description": "Reinforced shoulder straps, one large main compartment.Mid weight, 320 GSM. 100% cotton canvas.",
+    "stock": 0,
+    "currency": "AUD"
+  },
+  {
+    "id": "9",
+    "category": "Merch",
+    "name": "Green Tee",
+    "type": "apparel",
+    "image": "https://cdn11.bigcommerce.com/s-lqiq2tqil5/images/stencil/2000w/products/333/5802/5026_CLASSIC_TEE_PINE_GREEN__05319.1625087982.jpg",
+    "price": 4500,
+    "description": "Reinforced shoulder straps, one large main compartment.Mid weight, 320 GSM. 100% cotton canvas.",
+    "stock": 5,
+    "currency": "AUD"
+  },
+  {
+    "id": "10",
+    "category": "Merch",
+    "name": "Green Tee 2",
+    "type": "apparel",
+    "image": "https://cdn11.bigcommerce.com/s-lqiq2tqil5/images/stencil/2000w/products/333/5802/5026_CLASSIC_TEE_PINE_GREEN__05319.1625087982.jpg",
+    "price": 5000,
+    "description": "Reinforced shoulder straps, one large main compartment.Mid weight, 320 GSM. 100% cotton canvas.",
+    "stock": 5,
+    "currency": "AUD"
+  }
+]
