@@ -62,7 +62,6 @@ async function createCheckoutSession(req, res) {
     console.log("products:", products, "CART", cartItems);
     const line_items = validateCartItems(products, cartItems)
     
-
     const origin = process.env.NODE_ENV === 'production' ? req.headers.origin : 'http://localhost:3000'
 
     const params = {
